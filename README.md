@@ -1,5 +1,5 @@
 # Magic Lightstrip
-
+<img src="https://github.com/fmontedori/Magic-Lightstrip/blob/master/Screenshot.png"> 
 <h2>DESCRIPTION</h2>
 Magic Lightsript is an easy and friendly User Interface to drive your ledstrip from ESP32.
 It is based on FastLED and WifiManager library. The source file is for ESP32 and APA102 led strip.
