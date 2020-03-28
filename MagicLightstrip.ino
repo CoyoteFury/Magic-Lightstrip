@@ -1,7 +1,7 @@
 /*********
 
   Title       : FastLED Complete Web Server
-  Author      : Freak
+  Author      : F.MONTEDORI
   Date        : March, 2020 
   Description : Control your led strip from any web browser with a friendly UI
                 First time connnect to WiFi ESP_Light_379357_AutoConnectAP to autoconnect to your network
